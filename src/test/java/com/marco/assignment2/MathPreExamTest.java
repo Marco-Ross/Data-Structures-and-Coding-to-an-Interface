@@ -1,5 +1,7 @@
 package com.marco.assignment2;
-
+/**
+ * @author Marco Ross 215095014
+ */
 import com.marco.assignment2.config.AppConfig;
 import com.marco.assignment2.service.interfaces.AdvancedMath;
 import com.marco.assignment2.service.interfaces.SimpleMath;
